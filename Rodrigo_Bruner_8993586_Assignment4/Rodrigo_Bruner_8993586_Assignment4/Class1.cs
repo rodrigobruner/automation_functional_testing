@@ -511,4 +511,3 @@ public class InsuranceTestSuiteTest
         Assert.That(driver.FindElement(By.Id("age-error")).Text, Is.EqualTo("Invalid aged"));
     }
 }
-   
